@@ -205,10 +205,7 @@ Add these tags to the repo (Settings → Topics) for discoverability:
 
 ---
 
-## License
-
-MIT — see [`LICENSE`](LICENSE).
 
 ---
 
-**Author:** Siva Sankeerth Daminenii
+**Author:** Siva Sankeerth Damineni
