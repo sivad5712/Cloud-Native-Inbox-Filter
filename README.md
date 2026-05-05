@@ -10,9 +10,9 @@ A serverless Python application that automatically triages job-search emails in 
 
 ## Demo
 
-- 🎥 **Video walkthrough:** [INSERT_YOUTUBE_OR_DRIVE_LINK]
+- 🎥 **Video walkthrough:** https://drive.google.com/file/d/1EgHrLSacV0F7Xn2B1VbQb23BjMNPPkhh/view?usp=sharing
 - 🎙️ **Audio breakdown:** https://drive.google.com/file/d/1dhXwMPyKPLbJlH8-v67C878jtjKuDD_n/view?usp=sharing
-- 📄 **Setup guide (PDF):** [`docs/Gmail_JobBot_Guide.pdf`](docs/Gmail_JobBot_Guide.pdf)
+- 📄 **Setup guide (PDF):** https://drive.google.com/file/d/1Nhv4tiVuHaTXHq46KTstWMDiwBwiIG-G/view?usp=sharing
 
 ---
 
